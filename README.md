@@ -36,6 +36,10 @@ De maneira resumida, as rotas ou endpoints são:
 - `GET` `/importacao/{ano}/{tipo_derivado}`: Importação de derivados de uva
 - `GET` `/exportacao/{ano}/{tipo_derivado}`: Exportação de derivados de uva
 
+<br>
+
+## :triangular_ruler: Arquitetura Macro da API
+<img loading="lazy" src="img/Arquitetura-Macro-da-API.png" width=1400>
 
 <br>
 
