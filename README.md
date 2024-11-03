@@ -1,23 +1,12 @@
 Tech Challenge - Machine Learning Engineering (Fase 1)
 ==============================
 
-![Release Date Badge](https://img.shields.io/badge/Release_date-2024,_november-blue) ![Python Badge](https://img.shields.io/badge/Python-3.11.7-blue) ![Tech Challenge Badge](https://img.shields.io/badge/Tech_Challenge-Fase_1-green)
-
-
-<br>
-
-# Tópicos
-
-* [Descrição do projeto](#-Descrição-do-projeto)
-* [Tecnologias Utilizadas](##-:heavy_check_mark:-Tecnologias-Utilizadas)
-* [Rotas da API](##-:hammer:-Rotas-da-API)
-* [Como reproduzir via Python 3](##-:gem:-Como-executar-os-modelos-via-Python-3)
-* [Analista responsável](##-:alien:-Analista-responsável)
+![Release Date Badge](https://img.shields.io/badge/Release_date-2024,_november-blue) ![Python Badge](https://img.shields.io/badge/Python-3.11.7-blue) ![Tech Challenge Badge](https://img.shields.io/badge/Tech_Challenge-Fase_1-orange)
 
 <br>
 
 # Descrição do Projeto
-API baseado no microframework Flask para consultar dados referentes à quantidade de uvas processadas, produção e comercialização de vinhos, suco e derivados provenientes do Estado do Rio Grande do Sul (Embrapa).<br><br>
+API baseado no microframework Flask para consultar dados referentes a quantidade de uvas processadas, produção e comercialização de vinhos, suco e derivados provenientes do Estado do Rio Grande do Sul (Embrapa).<br><br>
 Os dados são obtidos por meio de Web Scraping utilizando a biblioteca em Python chamada BeautifulSoup.<br><br>
 Fonte: http://vitibrasil.cnpuv.embrapa.br/index.php
 
